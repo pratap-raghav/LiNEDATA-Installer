@@ -3,8 +3,20 @@
 # LiNEDATA: Efficient Returns Management System for E-Commerce Sellers
 
 LiNEDATA is a Python-based tool designed for eCommerce sellers to streamline return management. It captures and organizes photos and videos, integrates barcode tracking for easy order identification, and stores media files in date-based folders. By reducing manual effort, LiNEDATA helps sellers efficiently handle disputes, minimize losses, and maintain a smooth workflow.
-
+<br>
 [![Download LiNEDATA Installer](https://img.shields.io/badge/Download-LiNEDATA%20Installer-blue?style=flat&logo=github&logoColor=white)](https://github.com/pratap-raghav/LiNEDATA-Installer/releases/download/Projects/LiNEDATA-Installer.exe)
+### Note: You can use your mobile phone as a webcam with services like [Iriun Webcam](https://iriun.com/) for better video quality. Minimum resolution required: 1920x1080.
+<br>
+
+LiNEDATA is a tool designed to simplify returns management for e-commerce sellers by automating the process of collecting and organizing return evidence. It combines video recording, photo capture, and barcode scanning into one seamless workflow, ensuring that every return is accurately documented with timestamps and tracking IDs.
+
+### How It Works:
+- **Evidence Collection**: When a return is initiated, LiNEDATA captures video and photos of the returned product. Each image and video is tagged with a timestamp and tracking ID to ensure accurate documentation.
+- **Barcode Scanning**: The system scans the product's barcode to link it to the correct return, making it easier to track and verify the item.
+- **Automated Organization**: LiNEDATA automatically sorts the captured media into folders based on the tracking ID and return date, eliminating the need for manual sorting.
+- **Compensation Filing**: Once the evidence is organized, sellers can quickly file compensation claims on e-commerce platforms, with timestamped evidence serving as proof in case of disputes.
+
+LiNEDATA streamlines the entire returns process, saving time, reducing errors, and preventing fraud. It is scalable, user-friendly, and designed to enhance productivity for businesses of all sizes. 
 
 
 ### Key Features of LiNEDATA  
