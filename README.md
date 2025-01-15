@@ -22,9 +22,4 @@ LiNEDATA is a Python-based tool designed for eCommerce sellers to streamline ret
 - **Multiprocessing**: For efficient handling of tasks like photo capturing and saving.      
 - **OS Module**: For file management and directory creation.  
 
-
-
-## Use Case
-LiNEDATA is tailored for e-commerce sellers managing high volumes of returns. By automating evidence collection and organization, it reduces manual effort and ensures compliance with platform policies for compensation claims.
-
 ---
