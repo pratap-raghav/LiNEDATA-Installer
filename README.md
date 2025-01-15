@@ -5,7 +5,7 @@
 
 LiNEDATA is a Python-based tool designed for eCommerce sellers to streamline return management. It captures and organizes photos and videos, integrates barcode tracking for easy order identification, and stores media files in date-based folders. By reducing manual effort, LiNEDATA helps sellers efficiently handle disputes, minimize losses, and maintain a smooth workflow.
 
-### Technologies Used in LiNEDATA  
+### Technologies Used:
 
 - **Python**: Core programming language for building the tool.  
 - **OpenCV**: For capturing and processing photos and videos.  
