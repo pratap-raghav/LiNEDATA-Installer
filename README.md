@@ -1,4 +1,3 @@
-
 ---
 
 # LiNEDATA: Efficient Returns Management System for E-Commerce Sellers
@@ -22,4 +21,30 @@ LiNEDATA is a Python-based tool designed for eCommerce sellers to streamline ret
 - **Multiprocessing**: For efficient handling of tasks like photo capturing and saving.      
 - **OS Module**: For file management and directory creation.  
 
+### Controls:
+- **M:** Enter tracking ID.
+- **R:** Start recording a video.
+- **S:** Stop recording the video.
+- **Spacebar:** Capture a photo.
+- **Q:** Quit the program.
+
 ---
+## Preview
+
+![preview1](https://github.com/user-attachments/assets/c9525995-bdfa-44f0-8adf-0fc0779ec2d6)
+
+**1. Camera Selection and Configuration:** Select the desired camera and adjust settings as needed.
+**2. Directory Selection:** Choose the folder where files will be saved.
+**3. System Initialization:** Activate the camera and barcode scanner for seamless operation.
+**4. Barcode Scanning:** Scan barcodes to link tracking IDs with return packages automatically.
+<br>
+![preview2](https://github.com/user-attachments/assets/714bb9c0-1e4c-4b85-9b5c-a0dc3ca6d161)
+
+**1. Manual Input:** Enter the tracking ID manually if barcode scanning fails.
+**2. ID Update:** Automatically update the system with the provided tracking ID.
+<br>
+### Directory Structure
+![structure](https://github.com/user-attachments/assets/3a6731af-3733-43c5-817b-f88ecfb945f1)
+- **Main Folder:** This is the main folder where all return-related files are stored.
+- **Date-Based Folders:** Subfolders are created for each day, helping organize files by date.
+- **Media Files:** Photos and videos are saved within the date folders, each linked to a specific tracking ID for easy access.
