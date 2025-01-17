@@ -49,13 +49,17 @@ LiNEDATA streamlines the entire returns process, saving time, reducing errors, a
 ![preview1](https://github.com/user-attachments/assets/c9525995-bdfa-44f0-8adf-0fc0779ec2d6)
 
 **1. Camera Selection and Configuration:** Select the desired camera and adjust settings as needed.
+
 **2. Directory Selection:** Choose the folder where files will be saved.
+
 **3. System Initialization:** Activate the camera and barcode scanner for seamless operation.
+
 **4. Barcode Scanning:** Scan barcodes to link tracking IDs with return packages automatically.
 <br>
 ![preview2](https://github.com/user-attachments/assets/714bb9c0-1e4c-4b85-9b5c-a0dc3ca6d161)
 
 **1. Manual Input:** Enter the tracking ID manually if barcode scanning fails.
+
 **2. ID Update:** Automatically update the system with the provided tracking ID.
 <br>
 ### Directory Structure
