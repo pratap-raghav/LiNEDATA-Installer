@@ -5,8 +5,11 @@
 LiNEDATA is a Python-based tool designed for eCommerce sellers to streamline return management. It captures and organizes photos and videos, integrates barcode tracking for easy order identification, and stores media files in date-based folders. By reducing manual effort, LiNEDATA helps sellers efficiently handle disputes, minimize losses, and maintain a smooth workflow.
 
 <br>
+
 [![Download LiNEDATA Installer](https://img.shields.io/badge/Download-LiNEDATA%20Installer-blue?style=flat&logo=github&logoColor=white)](https://github.com/pratap-raghav/LiNEDATA-Installer/releases/download/Projects/LiNEDATA-Installer.exe)
+
 ### Note: You can use your mobile phone as a webcam with services like [Iriun Webcam](https://iriun.com/) for better video quality. Minimum resolution required: 1920x1080.
+
 <br>
 
 LiNEDATA is a tool designed to simplify returns management for e-commerce sellers by automating the process of collecting and organizing return evidence. It combines video recording, photo capture, and barcode scanning into one seamless workflow, ensuring that every return is accurately documented with timestamps and tracking IDs.
