@@ -7,7 +7,6 @@ LiNEDATA is a Python-based tool designed for eCommerce sellers to streamline ret
 <br>
 
 [![Download LiNEDATA Installer](https://img.shields.io/badge/Download-LiNEDATA%20Installer-blue?style=flat&logo=github&logoColor=white)](https://github.com/pratap-raghav/LiNEDATA-Installer/releases/download/Projects/LiNEDATA-Installer.exe)
-
 ### Note: You can use your mobile phone as a webcam with services like [Iriun Webcam](https://iriun.com/) for better video quality. Minimum resolution required: 1920x1080.
 
 <br>
@@ -71,3 +70,6 @@ LiNEDATA streamlines the entire returns process, saving time, reducing errors, a
 - **Main Folder:** This is the main folder where all return-related files are stored.
 - **Date-Based Folders:** Subfolders are created for each day, helping organize files by date.
 - **Media Files:** Photos and videos are saved within the date folders, each linked to a specific tracking ID for easy access.
+
+### Images
+![Untitled design](https://github.com/user-attachments/assets/6a43e654-9728-44fd-8316-be07604d29c7)
